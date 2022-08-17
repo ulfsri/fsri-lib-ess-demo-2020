@@ -1,4 +1,6 @@
 # LIB_ESS_Demo_DiB
+[![DOI](https://zenodo.org/badge/525599583.svg)](https://zenodo.org/badge/latestdoi/525599583)
+
 This repository contains the data and supporting files from walk-in containerized lithium-ion battery energy storage system experiments in which a unit rack was forced to thermal runaway and the resulting thermal chemials releases were quantified with a wide array of sensors. The tests were conducted in accordance with the 2019 version of the UL 9540A Standard Test Method.
 
 ## 01_Data

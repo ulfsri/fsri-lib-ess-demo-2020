@@ -1,0 +1,24 @@
+﻿Event,Time,Elapsed,Sequence,Thermal Runaway
+Ignition,9:06:00,,1,N
+Smoke Detector,9:35:00,,3,N
+Novec,9:35:16,,4,N
+Venting,9:28:44,,2,N
+Deflagration,10:02:45,,5,N
+"Initiating Unit, Module 4",10:20:35,1:14:35,6,Y
+"Left Unit, Module 5",10:35:09,1:29:09,7,Y
+"Initiating Unit, Module 5",10:40:29,1:34:29,8,Y
+"Left Unit, Module 4",10:40:40,1:34:40,9,Y
+"Initiating Unit, Module 6",10:53:06,1:47:06,10,Y
+"Left Unit, Module 6",10:53:29,1:47:29,11,Y
+"Initiating Unit, Module 7",11:03:36,1:57:36,12,Y
+"Left Unit, Module 3",11:03:43,1:57:43,13,Y
+"Left Unit, Module 7",11:06:01,2:00:01,14,Y
+"Initiating Unit, Module 8",11:11:01,2:05:01,15,Y
+"Initiating Unit, Module 9",11:19:18,2:13:18,16,Y
+"Left Unit, Module 8",11:22:30,2:16:30,17,Y
+"Left Unit, Module 9",11:28:05,2:22:05,18,Y
+"Doors Open, Flashover",11:43:36,2:37:36,19,N
+"Initiating Unit, Module 1",11:46:29,2:40:29,20,Y
+"Initiating Unit, Module 2",11:47:01,2:41:01,21,Y
+"Left Unit, Module 2",11:57:09,2:51:09,22,Y
+"Left Unit, Module 1",12:40:45,3:34:45,23,Y

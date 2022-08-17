@@ -1,0 +1,23 @@
+BESS Exp. 3 Notes:
+Battery Energy Storage System with water suppression
+Event / TimeIgnition / 9:11:40Venting / 9:32:24Thermal Runaway / 9:42:27Smoke Detector Activation / 9:31:00Sprinkler Activation / 9:41:43Deflagration / 10:13:02Sprinklers Off / 10:47:29
+Notes
+* Initiating module: 3 from bottom, rear rack, bravo side
+* Portable meter on B side of container is run through ¼” ID stainless steel tube, ¼” ID tygon tube, 65 micron filter
+* +37:09, THC increasing at the ceiling, dropping off at the floor
+* +38:09, large exhaust accompanied by flaming
+* IR cameras show hot top, cool bottom
+* +52:37, THC at floor turned off
+* +52:00, potential propagation, visible flame in interior TIC
+* +54:08, flaming in interior TIC
+* +56:00 steady pressurized exhaust from vents
+* Despite flaming, sprinklers keep compartment temps < 30C
+* +1:01:35, exhaust through roof vent, AB deflagration vent
+* +1:02:20, CO dilution x 2
+* +1:05:11, another burp
+* +1:11:58, more severe exhaust
+* +1:43:30, potential flaming in left unit
+* +1:49:15, dilution to 3x
+* 1:53:55, continuous exhaust
+* 1:55:30, thermal runaway in initiating unit
+

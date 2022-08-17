@@ -1,0 +1,14 @@
+BESS Exp. 2 Notes:
+Battery Energy Storage System with clean agent suppression
+Event / TimeBackground / 9:01:00Ignition / 9:06:00Venting / 9:28:44Thermal Runaway / 9:34:13Smoke Detector Activation / 9:35:00Novec / 9:35:16Flaming Above Cabinets / 9:43:00End Test / 1:00:00
+Notes
+* Initiating module: 3 from bottom, rear rack, bravo side
+* Portable meter on B side of container is run through ¼” ID stainless steel tube, ¼” ID tygon tube, 65 micron filter
+* Design novec discharge = 8% by volume
+* 55 minutes after ignition, temperatures in initiating module start to increase again
+* 56:45 after ignition, flaming visible in upper doorway camera
+* Deflagration occurred approximately 57:00 after ignition, blowing roof and AD side deflagration panels
+* 1:34:00 – filter change request
+* Thermal runaway in left exposure unit at 1:35:00 after ignition
+* Sneeze probe THC sensor turned off at 1:43:30
+

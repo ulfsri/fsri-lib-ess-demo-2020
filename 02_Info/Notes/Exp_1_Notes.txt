@@ -1,0 +1,9 @@
+BESS Exp. 1 Notes:
+Battery Energy Storage System with no suppression
+Event / TimeBackground / 9:41:23Ignition / 9:46:23End Test / 1:00:00
+Notes
+* Initiating module: 3 from bottom, rear rack, bravo side
+* Doors blew open at time of flaming ignition – approximately 26:58 into test
+* Gases appear buoyant in initial part of test
+* Portable meter on top of container is run through ¼” ID stainless steel tube, ¼” ID tygon tube, 65 micron filter
+

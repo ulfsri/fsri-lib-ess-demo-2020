@@ -1,20 +1,31 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+title: >-
+  2020 UL 9540A Installation-Level Test Experimental
+  Data
+message: 'If you use this dataset, please cite it as below.'
+type: dataset
 authors:
-- family-names: "McKinnon"
-  given-names: "Mark"
-  orcid: "https://orcid.org/0000-0002-3344-4957"
-- family-names: "Barowy"
-  given-names: "Adam"
-  orcid: "https://orcid.org/0000-0001-5448-4037"
-- family-names: "Schraiber"
-  given-names: "Alexandra"
-  orcid: "https://orcid.org/0000-0002-3693-7378"
-- family-names: "Regan"
-  given-names: "Jack"
-  orcid: "https://orcid.org/0000-0003-0398-0959"
-title: "2020 UL 9540A Installation-Level Test Experimental Data"
-version: 1.0
-doi: https://zenodo.org/record/7003380#.Yv_D7nbMI2w
-date-released: 2022-08-19
-url: "https://github.com/ulfsri/fsri-lib-ess-demo-2020/releases/tag/v1.0"
+  - given-names: Mark
+    family-names: McKinnon
+    affiliation: FSRI
+    orcid: 'https://orcid.org/0000-0002-3344-4957'
+  - given-names: Adam
+    family-names: Barowy
+    email: adam.barowy@ul.org
+    affiliation: FSRI
+    orcid: 'https://orcid.org/0000-0001-5448-4037'
+  - given-names: Alexandra
+    family-names: Schraiber
+    affiliation: UL Solutions
+    orcid: 'https://orcid.org/0000-0002-3693-7378'
+  - given-names: Jack
+    family-names: Regan
+    affiliation: FSRI
+    orcid: 'https://orcid.org/0000-0003-0398-0959'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7003380
+  - type: url
+    value: >-
+      https://github.com/ulfsri/fsri-lib-ess-demo-2020/releases/tag/v1.0
+license: MIT

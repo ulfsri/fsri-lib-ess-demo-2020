@@ -1,6 +1,9 @@
 # Data Structure
 Each experiment has a plaintext __.csv__ file that stores the time series data for each sensor for each experiment. The *Time* column, in seconds, in each experiment file is offset based on when heating of the initiating cell began. In other words, negative values represent background data and positive values represent time after the experiment started. The *Timestamp* column represents the local clock time during which the experiment was conducted. This column is used to sync the corresponding **_Events.csv** file to the primary data file for each experiment. The **_Events** file contains the relevant actions performed during the experiments (e.g., ignition, ventilation, suppression, etc.).
 
+## Cell Level Experiment
+The cell level experiment involved a mock-up cell comprised of thirty 18650 form factor LIB cells charged to 100% SOC. The purpose of this experiment was to demonstrate whether the cell was capable of undergoing and propagating thermal runaway and to characterize the heat and chemical release during the process.
+
 ## Experiment 1
 Experiment 1 was a baseline experiment which did not incorporate any active suppression. The purpose of the experiment was to characterize the thermal and chemical conditions generated during thermal runaway and to assess the efficacy of industrial gas detectors and sensors for identifying thermal runaway and potential deflagration hazards.
 
